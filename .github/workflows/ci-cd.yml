@@ -7,7 +7,7 @@ on:
 
 env:
   REGISTRY: docker.io
-  IMAGE_NAME: kraj28/spring-boot-demo
+  IMAGE_NAME: amirvenkat/spring-boot-demo
 
 jobs:
   build:

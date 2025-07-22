@@ -1,5 +1,5 @@
 image:
-  repository: kraj28/demo   # will be overridden in the workflow
+  repository: amirvenkat/demo   # will be overridden in the workflow
   tag: "latest"
   pullPolicy: IfNotPresent
 
